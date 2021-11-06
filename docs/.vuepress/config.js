@@ -3,7 +3,7 @@ const path = require("path");
 
 module.exports = {
   lang: "en-US",
-  title: "FedPy Docs",
+  title: "FedPy.Docs",
   description: "Documentation for FedPy",
   head: [["link", { rel: "icon", href: "/assets/FedPy_logo.png" }]],
   base: "/FedPy.Docs/",
@@ -38,7 +38,7 @@ module.exports = {
     repo: "https://github.com/antonio-hickey/FedPy",
 
     docsRepo: "https://github.com/antonio-hickey/FedPy.Docs",
-    docsBranch: "main",
+    docsBranch: "gh-pages",
     docsDir: "docs",
     sidebar: {
       "/": getSideBar("/", "Getting Started"),
