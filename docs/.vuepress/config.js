@@ -6,6 +6,7 @@ module.exports = {
   title: "FedPy Docs",
   description: "Documentation for FedPy",
   head: [["link", { rel: "icon", href: "/assets/FedPy_logo.png" }]],
+  base: "/FedPy.Docs/"
 
   themeConfig: {
     navbar: [
@@ -36,7 +37,7 @@ module.exports = {
     ],
     repo: "https://github.com/antonio-hickey/FedPy",
 
-    docsRepo: "https://github.com/antonio-hickey/FedPy.com",
+    docsRepo: "https://github.com/antonio-hickey/FedPy.Docs",
     docsBranch: "main",
     docsDir: "docs",
     sidebar: {
