@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 module.exports = {
+  base: "/FedPy.Docs/",
   lang: "en-US",
   title: "FedPy.Docs",
   description: "Documentation for FedPy",
