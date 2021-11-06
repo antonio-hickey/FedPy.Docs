@@ -6,7 +6,6 @@ module.exports = {
   title: "FedPy Docs",
   description: "Documentation for FedPy",
   head: [["link", { rel: "icon", href: "/assets/FedPy_logo.png" }]],
-  base: "/FedPy.Docs/",
 
   themeConfig: {
     navbar: [
