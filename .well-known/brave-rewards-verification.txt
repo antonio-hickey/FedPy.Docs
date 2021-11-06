@@ -1,0 +1,3 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: https://antonio-hickey.github.io/FedPy/
